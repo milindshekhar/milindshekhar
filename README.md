@@ -1,56 +1,32 @@
-<h1 align="center">Hi 👋, I'm Milind Shekhar</h1>
-<h3 align="center">Frontend Software Engineer | Angular | JavaScript | Java</h3>
+# Hi 👋 I'm Milind Shekhar
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MilindShekhar&style=flat-square" />
-</p>
+Frontend Software Engineer specializing in Angular, JavaScript & TypeScript.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Frontend-focused engineer (Angular)
-- 🅰️ JavaScript & TypeScript specialist
-- ☕ Java backend fundamentals
-- 🧠 DSA & problem solving
-- 🇮🇳 India
+- Frontend focused developer
+- Angular & modern UI specialist
+- Java backend fundamentals
+- DSA & LeetCode practitioner
+- Based in India 🇮🇳
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MilindShekhar&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilindShekhar&layout=compact&theme=default" />
-</p>
+- Angular, TypeScript, JavaScript
+- HTML, CSS
+- Java, SQL
+- Git, REST APIs
 
 ---
 
-## 🔥 GitHub Streak
+## 📌 GitHub
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MilindShekhar" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MilindShekhar&theme=flat&no-frame=true" />
-</p>
-
----
-
-## 🤝 Connect
-
-<p align="center">
-  <a href="https://github.com/MilindShekhar">GitHub</a> |
-  <a href="https://www.linkedin.com/">LinkedIn</a>
-</p>
+- Username: MilindShekhar
+- Focus: Clean UI + Problem Solving
 
 ---
 
